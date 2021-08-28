@@ -1,9 +1,14 @@
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [Licensing](#licensing)
+1. [Introduction](#intro)
+2. [Installation](#installation)
+3. [Project Motivation](#motivation)
+4. [Licensing](#licensing)
 
+
+## Introduction <a name="intro"></a>
+
+With this project I have analyzed the interactions that users had with articles on the IBM Watson Studio platform, and made recommendations to them about new articles I think they will like.
 
 ## Installation <a name="installation"></a>
 
